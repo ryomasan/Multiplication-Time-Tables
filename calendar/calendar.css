@@ -1,0 +1,13 @@
+.box{
+text-align: center;
+display:inline-block;
+width: 30px;
+border: solid 1px; 
+}
+.color-box{
+text-align: center;
+display:inline-block;
+width: 30px;
+border: solid 1px;
+background-color: aqua;
+}
